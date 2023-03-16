@@ -18,3 +18,9 @@ ip.dst == x.x.x.x
 ```
 ip.dst == IP && tcp.port == 12345
 ```
+##### Find a packet
+```
+Packet list
+Packet details
+Packet bytes
+```
